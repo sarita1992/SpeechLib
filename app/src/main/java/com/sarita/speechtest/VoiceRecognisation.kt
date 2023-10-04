@@ -1,4 +1,4 @@
-package com.sarita.speechlibrary
+package com.sarita.speechtest
 
 import android.content.Context
 import android.content.Intent
